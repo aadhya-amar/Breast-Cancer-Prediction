@@ -1,0 +1,13 @@
+Input: [0.07, 70.0, 0.03, 12.0, 69.99], Prediction: Malignant, Probability: 0.55
+Input: [0.10999999999999999, 0.10999999999999999, 0.09999999999999999, 0.08, 0.09], Prediction: Malignant, Probability: 0.71
+Input: [0.10999999999999999, 0.10999999999999999, 0.09999999999999999, 0.08, 0.09], Prediction: Benign, Probability: 1.00
+Input: [0.10999999999999999, 0.10999999999999999, 0.09999999999999999, 0.08, 0.09], Prediction: Malignant, Probability: 0.80
+Input: [0.0, 0.0, 0.0, 0.0, 0.0], Prediction: Benign, Probability: 1.00
+Input: [0.0, 0.0, 0.0, 0.0, 0.0], Prediction: Benign, Probability: 0.52
+Input: [0.0, 0.0, 0.0, 0.0, 0.0], Prediction: Malignant, Probability: 0.71
+Input: [70.0, 76.0, 100.0, 0.078, 75.99], Prediction: Malignant, Probability: 0.84
+Input: [70.0, 76.0, 100.0, 0.078, 75.99], Prediction: Malignant, Probability: 0.84
+Input: [70.0, 76.0, 100.0, 0.078, 75.99], Prediction: Malignant, Probability: 0.96
+Input: [70.0, 76.0, 100.0, 0.078, 75.99], Prediction: Malignant, Probability: 1.00
+Input: [71.0, 76.0, 100.0, 0.078, 75.99], Prediction: Malignant, Probability: 0.83
+Input: [76.0, 0.03, 0.060000000000000005, 0.060000000000000005, 0.15], Prediction: Malignant, Probability: 0.84
